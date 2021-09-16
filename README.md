@@ -1,5 +1,5 @@
 # Matrix-Map
-Selection stage challenge 2
+// Selection stage challenge 2
 
 This program should returns the number of different countries to which the areas of the map. 
 
